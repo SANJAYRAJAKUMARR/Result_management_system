@@ -20,4 +20,9 @@ In this the student enters his/her rollno and d.o.b to view their result.
 
 ![image](https://github.com/SANJAYRAJAKUMARR/Result_management_system/assets/112179483/66757fa5-83c3-4fb1-8aab-fc1cb23b16c5)
 
+Finally result will get displayed
+
+![image](https://github.com/SANJAYRAJAKUMARR/Result_management_system/assets/112179483/72c23495-1b1c-4d7a-a27f-b230de263e04)
+
+
 
